@@ -1,3 +1,3 @@
 # css-grid-projects
 
-## Fun using CSS Grid
+## Simple Projects using CSS Grid, ¿Bye Bootstrap?
